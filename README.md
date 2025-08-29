@@ -2,7 +2,7 @@
 
 A responsive **personal portfolio website** built using **HTML, JavaScript, and Tailwind CSS** to showcase my projects, skills, and experience. 
 
-Preview :  <a href = "https://radhika-bhagat-weather.netlify.app/"> RadhikaBhagat-Portfolio </a>
+Preview :  <a href = "https://radhikabhagat-portfolio.netlify.app/"> RadhikaBhagat-Portfolio </a>
 
 ---
 
